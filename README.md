@@ -6,6 +6,6 @@ To run the code do the following:-
 a) Type "python tracerocks.py"
 b) A screen will open up showing your image. On the upper top left you will see the options of selecting the outline of an object and then presing c to confirm
 c) select the outline of an object by selecting points on the outside of the object using your mouse and then once done press c (Warning, DO NOT press c twice as the program will crash)
-d) Once you press c, switch to your visual studio code. You will see that the code has saved the first object as as a png file and called it rock_0.png
+d) Once you press c, switch to your visual studio code. You will see that the code has saved the first object as a png file and called it rock_0.png
 e) To select another object, press "enter" else type "done" to finish
 Now you can take all these individual images and use another code (which is also available in my github folder) to move, and rotate these images and arrange them as per your wish.
