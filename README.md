@@ -1,7 +1,7 @@
 The purpose of this code was to be able to extract the images of different rocks captured in a photo. Of course, the photo can contain any objects (not necessarily rocks) which can be extracted manually.
 Before running the code, you need to have the following. Some means of runnning the code. I used the freely available visual studio code (https://code.visualstudio.com/). You also need to download and install a few python libraries shown in the short code below
-pip install opencv-python numpy matplotlib pillow
-You also need to have the photo saved in the same folder as the code. Please name the photo rocks and it should be a jpeg file.
+"pip install opencv-python numpy matplotlib pillow"
+You also need to have the photo saved in the same folder as the code. Please name the photo "rocks" and it should be a jpeg file.
 To run the code do the following:-
 a) Type python nameofile.py
 b) A screen will open up showing your image. On the upper top left you will see the options of selecting the outline of an object and then presing c to confirm
